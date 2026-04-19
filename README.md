@@ -1,6 +1,6 @@
 # Restaurant Verified Email Access in Illinois, US
 
-> Free BeamStation sample export with 645 rows and masked direct-contact fields.
+> Free BeamStation sample export with 625 rows and masked direct-contact fields.
 
 ## Snapshot
 
@@ -9,9 +9,9 @@
 | Dataset ID | `383327` |
 | Location | Illinois |
 | Category | Restaurants |
-| Full dataset size | 6,457 records |
-| Free sample size | 645 records (9.99%) |
-| Last export | 2026-04-08T06:28:57.462061+00:00 |
+| Full dataset size | 6,251 records |
+| Free sample size | 625 records (10.0%) |
+| Last export | 2026-04-15T10:08:04.420508+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/restaurant-verified-email-access-in-illinois-us-sample-383327/releases/download/sample-latest/beamstation_383327_restaurants-us-il_SAMPLE_DIST.csv) |
 
 ## What is in this sample
